@@ -7,7 +7,12 @@
 4. Allure reporting
 
 
-### Result testing 
+### Test run using Google chrome
+
+Uploading screen-capture_compress.mp4…
+
+
+### Allure report Result testing 
 
 ![img.png](img.png)
 
