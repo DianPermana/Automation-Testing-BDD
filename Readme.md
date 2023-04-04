@@ -14,9 +14,9 @@ https://user-images.githubusercontent.com/18004033/229706622-5d627be1-ce1c-4371-
 
 
 
-### Result testing 
+### Test Result
 
-![img.png](img.png)
+![image](https://user-images.githubusercontent.com/18004033/229710249-74cc1bae-59bd-45e4-ab4d-3b65998e7e94.png)
 
 
 ### how to use allure report
