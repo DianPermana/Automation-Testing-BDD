@@ -9,7 +9,8 @@
 
 ### Test run using Google chrome
 
-Uploading screen-capture_compress.mp4…
+https://user-images.githubusercontent.com/18004033/229706622-5d627be1-ce1c-4371-b7c8-da62e4d41760.mp4
+
 
 
 ### Allure report Result testing 
@@ -21,7 +22,7 @@ Uploading screen-capture_compress.mp4…
 
 #### Install allure-behave
 
-`pip install allure-behave`
+`pip install allure-behave` or check this https://github.com/behave/behave 
 
 #### run allure report
 
